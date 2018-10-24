@@ -18,24 +18,6 @@
   <preference name="disable-cursor" value="false"/>
   <preference name="android-minSdkVersion" value="14"/>
   <preference name="android-installLocation" value="auto"/>
-  <plugin name="com.phonegap.plugins.battery-status"/>
-  <plugin name="com.phonegap.plugins.camera"/>
-  <plugin name="com.phonegap.plugins.media-capture"/>
-  <plugin name="com.phonegap.plugins.console"/>
-  <plugin name="com.phonegap.plugins.contacts"/>
-  <plugin name="com.phonegap.plugins.device"/>
-  <plugin name="com.phonegap.plugins.device-motion"/>
-  <plugin name="com.phonegap.plugins.device-orientation"/>
-  <plugin name="com.phonegap.plugins.dialogs"/>
-  <plugin name="com.phonegap.plugins.file"/>
-  <plugin name="com.phonegap.plugins.file-transfer"/>
-  <plugin name="com.phonegap.plugins.geolocation"/>
-  <plugin name="com.phonegap.plugins.globalization"/>
-  <plugin name="com.phonegap.plugins.inappbrowser"/>
-  <plugin name="com.phonegap.plugins.media"/>
-  <plugin name="com.phonegap.plugins.network-information"/>
-  <plugin name="com.phonegap.plugins.splashscreen"/>
-  <plugin name="com.phonegap.plugins.vibration"/>
   <icon src="icon.png"/>
   <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
   <icon src="www/res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
